@@ -11,7 +11,7 @@ const requestWebsite = async () => {
 
   const page = await browser.newPage();
 
-  await page.goto("https://shopee.vn/Kh%E1%BA%A9u-trang-5d-Kh%E1%BA%A9u-trang-5d-VINAMAX-kh%E1%BA%A9u-trang-5d-TH%E1%BB%8ANH-PH%C3%81T-(-th%C3%B9ng-100-chi%E1%BA%BFc-v%C3%A0-h%E1%BB%99p-50-chi%E1%BA%BFc-)-th%C3%B9ng-100-chi%E1%BA%BFc-i.1039458631.21582337863?publish_id=&sp_atk=7b25ab53-1a7d-4997-9ccd-1f4ce6f0ef81&xptdk=7b25ab53-1a7d-4997-9ccd-1f4ce6f0ef81");
+  await page.goto("https://shopee.vn/%C3%94p-%C4%90i%E1%BB%87n-Tho%E1%BA%A1i-Silicon-D%E1%BA%BBo-H%C3%ACnh-M%E1%BA%B7t-C%C6%B0%E1%BB%9Di-%C4%90%C6%A1n-Gi%E1%BA%A3n-D%E1%BB%85-Th%C6%B0%C6%A1ng-Cho-iphone-12-13-14-pro-max-14-plus-15-7-8plus-x-xr-xsmax-%E1%BB%90p-i.1118446719.17699571375?publish_id=&sp_atk=09cc9d1f-a857-4bf8-a65b-abc1fcb097da&xptdk=09cc9d1f-a857-4bf8-a65b-abc1fcb097da");
 
   await page.waitForTimeout(3000);
 

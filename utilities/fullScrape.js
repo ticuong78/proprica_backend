@@ -6,7 +6,8 @@ const fullScrape = async (page) => {
   const models = await response.data.item.models.map(item => {
     return {
       name: item.name,
-      stock: item.stock
+      stock: item.stock,
+      price: item.price
     }
   })
 

@@ -645,3 +645,137 @@
 11/12/2023		10:28		6afac42d-9d03-43bf-acf7-bbf0c46c3c97		TimeoutError		Waiting for selector `._44qnta span` failed: Waiting failed: 5000ms exceeded
 11/12/2023		10:33		75e5b876-dea6-4785-9074-3e4520efb93d		TimeoutError		Waiting for selector `._44qnta span` failed: Waiting failed: 5000ms exceeded
 11/12/2023		10:33		4646d89f-7a78-415c-a8fe-c8ef6b35b5c8		TimeoutError		Waiting for selector `._44qnta span` failed: Waiting failed: 5000ms exceeded
+11/12/2023		20:36		e6fd4981-e71a-4c4d-b390-363704e594d0		ProtocolError		Protocol error (Page.navigate): Cannot navigate to invalid URL
+11/12/2023		20:36		0bc962db-4b81-4a4e-8f9f-555dc5a3e458		ProtocolError		Protocol error (Page.navigate): Cannot navigate to invalid URL
+11/12/2023		20:36		fe518a8f-2c64-4281-b98c-f51ab236dc81		ProtocolError		Protocol error (Page.navigate): Cannot navigate to invalid URL
+11/12/2023		20:36		d5ba0a22-8816-436f-990d-845ec0cf0aef		ProtocolError		Protocol error (Page.navigate): Cannot navigate to invalid URL
+12/12/2023		15:30		4869721d-7eba-4471-9a6b-0c2d3c63cd9c		TimeoutError		Waiting for selector `._44qnta span` failed: Waiting failed: 5000ms exceeded
+12/12/2023		15:30		33863185-ea68-4c77-96d9-ec2f1536fd06		TimeoutError		Waiting for selector `._44qnta span` failed: Waiting failed: 5000ms exceeded
+12/12/2023		15:37		f81a6533-c34a-4776-bc16-7a430b76cc9b		TimeoutError		Waiting for selector `._44qnta span` failed: Waiting failed: 5000ms exceeded
+12/12/2023		15:37		7565e5b3-352e-409a-81ac-41135a31137c		TimeoutError		Waiting for selector `._44qnta span` failed: Waiting failed: 5000ms exceeded
+12/12/2023		15:40		212f48c6-19af-4b84-be5d-19ffe1d877c8		TimeoutError		Waiting for selector `._44qnta span` failed: Waiting failed: 5000ms exceeded
+12/12/2023		15:40		46e7c16e-16d2-4227-bbb4-cab5ab61953f		TimeoutError		Waiting for selector `._44qnta span` failed: Waiting failed: 5000ms exceeded
+12/12/2023		15:47		740ea14a-8776-4df3-9296-4fb7c5c2568d		TimeoutError		Waiting for selector `._44qnta span` failed: Waiting failed: 5000ms exceeded
+12/12/2023		15:47		19432597-7c2f-47f9-a283-5942dc0723d4		TimeoutError		Waiting for selector `._44qnta span` failed: Waiting failed: 5000ms exceeded
+12/12/2023		15:48		0888932a-0e84-47ba-8187-899bc6f29c00		TimeoutError		Waiting for selector `._44qnta span` failed: Waiting failed: 5000ms exceeded
+12/12/2023		15:48		c01ba0b1-42b0-4abe-8362-14958eff8a41		TimeoutError		Waiting for selector `._44qnta span` failed: Waiting failed: 5000ms exceeded
+12/12/2023		15:48		244ada3b-a8b7-4ac9-b7e7-26eaed54c25b		TimeoutError		Waiting for selector `._44qnta span` failed: Waiting failed: 5000ms exceeded
+12/12/2023		15:48		d88cc684-4c58-48b2-b114-1ae85f3dff7b		TimeoutError		Waiting for selector `._44qnta span` failed: Waiting failed: 5000ms exceeded
+12/12/2023		15:48		5c3e9cfd-e545-4844-9c03-1e1753955967		TimeoutError		Waiting for selector `._44qnta span` failed: Waiting failed: 5000ms exceeded
+12/12/2023		15:48		2c4f3887-56ce-4a74-ad6b-fd456d44dc49		TimeoutError		Waiting for selector `._44qnta span` failed: Waiting failed: 5000ms exceeded
+12/12/2023		15:51		8a70160c-e529-437c-aed8-84a8c089557f		TimeoutError		Waiting for selector `._44qnta span` failed: Waiting failed: 5000ms exceeded
+12/12/2023		15:51		eedce57c-a986-425a-86d0-e2c10a55d136		TimeoutError		Waiting for selector `._44qnta span` failed: Waiting failed: 5000ms exceeded
+12/12/2023		15:52		f49b3481-b8bb-40ff-8eaa-dd477e057777		TimeoutError		Waiting for selector `._44qnta span` failed: Waiting failed: 5000ms exceeded
+12/12/2023		15:52		791381b9-c08f-4ade-8b51-c26da88a09ba		TimeoutError		Waiting for selector `._44qnta span` failed: Waiting failed: 5000ms exceeded
+12/12/2023		15:54		a2212fed-951e-42c6-9fdf-9702e921f6ab		TimeoutError		Waiting for selector `._44qnta span` failed: Waiting failed: 5000ms exceeded
+12/12/2023		15:54		3681253c-c5a0-4018-8c2c-7ab50a773f3a		TimeoutError		Waiting for selector `._44qnta span` failed: Waiting failed: 5000ms exceeded
+12/12/2023		15:54		1eb57e68-173e-4936-ba1d-5fc77497a7fc		TimeoutError		Waiting for selector `._44qnta span` failed: Waiting failed: 5000ms exceeded
+12/12/2023		15:55		1a4672f7-1bee-4832-98e2-ea91408c8ef8		TimeoutError		Waiting for selector `._44qnta span` failed: Waiting failed: 5000ms exceeded
+12/12/2023		15:55		338def35-30e0-4765-892c-bd500d2249e7		TimeoutError		Waiting for selector `._44qnta span` failed: Waiting failed: 5000ms exceeded
+12/12/2023		15:55		c086ada5-19b0-4b51-bf6e-2fee8d6d5e46		TimeoutError		Waiting for selector `._44qnta span` failed: Waiting failed: 5000ms exceeded
+12/12/2023		15:55		003b7e56-46b0-4de7-89d1-62da7ff081ae		TimeoutError		Waiting for selector `._44qnta span` failed: Waiting failed: 5000ms exceeded
+12/12/2023		15:55		8e973703-9d44-4913-996a-5ee586f6546f		ProtocolError		Protocol error (Page.navigate): Cannot navigate to invalid URL
+12/12/2023		15:55		634a42ab-a760-4571-adc8-9c638bc07aa1		ProtocolError		Protocol error (Page.navigate): Cannot navigate to invalid URL
+12/12/2023		15:56		c90615ff-9c66-445a-a25b-6acccb0d92a2		ProtocolError		Protocol error (Page.navigate): Cannot navigate to invalid URL
+12/12/2023		15:56		63ae665c-a741-46ef-98d9-03d627190255		ProtocolError		Protocol error (Page.navigate): Cannot navigate to invalid URL
+12/12/2023		15:57		197a83a7-eb5b-4047-a0e1-f07422ab4693		ProtocolError		Protocol error (Page.navigate): Cannot navigate to invalid URL
+12/12/2023		15:57		6981c023-6c04-487a-88cc-9e38dd66f1a0		ProtocolError		Protocol error (Page.navigate): Cannot navigate to invalid URL
+12/12/2023		15:57		72ad15b0-41f3-4f13-a4e5-709650977b93		ProtocolError		Protocol error (Page.navigate): Cannot navigate to invalid URL
+12/12/2023		15:57		35d3be59-8175-4541-a12c-3da1a0e0a629		ProtocolError		Protocol error (Page.navigate): Cannot navigate to invalid URL
+12/12/2023		15:57		00913e89-0e95-4e8e-b5c1-98a0b74b3815		ProtocolError		Protocol error (Page.navigate): Cannot navigate to invalid URL
+12/12/2023		15:58		0d914edc-601e-49f1-8968-b0f788be08ca		ProtocolError		Protocol error (Page.navigate): Cannot navigate to invalid URL
+12/12/2023		15:58		432e1ca6-1ff5-4913-ac17-7fe2f12d00fc		ProtocolError		Protocol error (Page.navigate): Cannot navigate to invalid URL
+12/12/2023		15:58		eac4be73-0f65-428e-9306-c16f619412ed		ProtocolError		Protocol error (Page.navigate): Cannot navigate to invalid URL
+12/12/2023		15:58		1408fbe5-49cf-4a3e-9d39-926b6cf8dc32		TimeoutError		Waiting for selector `._44qnta span` failed: Waiting failed: 5000ms exceeded
+12/12/2023		15:58		566ec9c1-7027-4626-9ff3-1504ca074f2d		TimeoutError		Waiting for selector `._44qnta span` failed: Waiting failed: 5000ms exceeded
+12/12/2023		15:58		1204b513-7054-4bab-bc5c-60e44824ea8f		ProtocolError		Protocol error (Page.navigate): Cannot navigate to invalid URL
+12/12/2023		15:58		7c02e6a8-798e-4090-97e4-abece3c11587		ProtocolError		Protocol error (Page.navigate): Cannot navigate to invalid URL
+12/12/2023		15:58		668362a0-934b-48d9-89bf-a9030063111d		TimeoutError		Waiting for selector `._44qnta span` failed: Waiting failed: 5000ms exceeded
+12/12/2023		15:58		144b9da9-15a6-4c59-9674-106c5bafe981		TimeoutError		Waiting for selector `._44qnta span` failed: Waiting failed: 5000ms exceeded
+12/12/2023		15:59		d097b42b-e25d-4b46-8340-d6a56a30a6b0		ProtocolError		Protocol error (Page.navigate): Cannot navigate to invalid URL
+12/12/2023		15:59		4cadf4d9-715e-44ab-a231-8a602542ed1d		ProtocolError		Protocol error (Page.navigate): Cannot navigate to invalid URL
+12/12/2023		15:59		b6881967-7af0-4d06-8af9-ec8144c74327		TimeoutError		Waiting for selector `._44qnta span` failed: Waiting failed: 5000ms exceeded
+12/12/2023		15:59		ce18a146-24bb-4a5b-b3d9-b934eb5e3793		TimeoutError		Waiting for selector `._44qnta span` failed: Waiting failed: 5000ms exceeded
+12/12/2023		15:59		0d84c145-2f24-46e0-9957-79843d28b883		ProtocolError		Protocol error (Page.navigate): Cannot navigate to invalid URL
+12/12/2023		15:59		0c465198-6234-41db-87b0-f10829e7142a		TimeoutError		Waiting for selector `._44qnta span` failed: Waiting failed: 5000ms exceeded
+12/12/2023		16:00		0197c0b2-1632-49b9-9a98-decf9215ec89		ProtocolError		Protocol error (Page.navigate): Cannot navigate to invalid URL
+12/12/2023		16:00		69bb522c-3798-4d01-982e-bc669dd603ac		ProtocolError		Protocol error (Page.navigate): Cannot navigate to invalid URL
+12/12/2023		16:00		df7f81d2-760f-4c69-b630-15e16722509a		ProtocolError		Protocol error (Page.navigate): Cannot navigate to invalid URL
+12/12/2023		16:00		23b9070a-12e2-4547-b2ce-6685e59adfd3		ProtocolError		Protocol error (Page.navigate): Cannot navigate to invalid URL
+12/12/2023		16:01		68fe520f-3cc6-42c1-b6d5-053a573771bc		ProtocolError		Protocol error (Page.navigate): Cannot navigate to invalid URL
+12/12/2023		16:01		a0603ae7-9b4a-4b26-b7c4-00ae18ea2e22		ProtocolError		Protocol error (Page.navigate): Cannot navigate to invalid URL
+12/12/2023		16:02		9bab2ced-02f3-4df9-91c1-f797078a8d58		ProtocolError		Protocol error (Page.navigate): Cannot navigate to invalid URL
+12/12/2023		16:02		40e9b70f-6cfd-418f-8ad3-092a534c6c0c		ProtocolError		Protocol error (Page.navigate): Cannot navigate to invalid URL
+12/12/2023		16:03		19cf116b-69a5-4652-8487-69feca30cc37		ProtocolError		Protocol error (Page.navigate): Cannot navigate to invalid URL
+12/12/2023		16:04		92b44a9f-c3b0-482e-9709-f8ce510d72b3		ProtocolError		Protocol error (Page.navigate): Cannot navigate to invalid URL
+12/12/2023		16:05		67d4edb1-682b-4ad4-bc23-c1b9762bd4c4		ProtocolError		Protocol error (Page.navigate): Cannot navigate to invalid URL
+12/12/2023		16:06		0324f915-d33d-4af3-851d-b99ece154441		TimeoutError		Waiting for selector `._44qnta span` failed: Waiting failed: 5000ms exceeded
+12/12/2023		16:06		778b75bb-1bd3-4ec3-8651-1c3f3a11aa30		TimeoutError		Waiting for selector `._44qnta span` failed: Waiting failed: 5000ms exceeded
+12/12/2023		16:07		84dd142e-e4c7-460e-afa9-2714eac1973a		ProtocolError		Protocol error (Page.navigate): Cannot navigate to invalid URL
+12/12/2023		16:07		85d568b4-3266-4656-ae16-21da805304d8		ProtocolError		Protocol error (Page.navigate): Cannot navigate to invalid URL
+12/12/2023		16:07		4d6098ec-dab4-4ba6-80c9-51e19dc76f9e		ProtocolError		Protocol error (Page.navigate): Cannot navigate to invalid URL
+12/12/2023		16:07		97bd1c4e-09bb-4e91-bb67-290fa6c3ff0a		ProtocolError		Protocol error (Page.navigate): Cannot navigate to invalid URL
+12/12/2023		16:07		7d3440b1-ec3f-4982-b281-04a9b1b2b242		TimeoutError		Waiting for selector `._44qnta span` failed: Waiting failed: 5000ms exceeded
+12/12/2023		16:07		bec69193-0ba3-4ab0-82e0-a386dbf23014		TimeoutError		Waiting for selector `._44qnta span` failed: Waiting failed: 5000ms exceeded
+12/12/2023		16:44		f55b73ad-91df-4615-87a1-bbc538a895d0		ProtocolError		Protocol error (Page.navigate): Cannot navigate to invalid URL
+12/12/2023		16:44		fa82660b-dd79-49bc-81b0-c4b21821cf3f		ProtocolError		Protocol error (Page.navigate): Cannot navigate to invalid URL
+12/12/2023		16:51		effe3889-5190-48b0-ba80-84cb6a9a44ad		ProtocolError		Protocol error (Page.navigate): Cannot navigate to invalid URL
+12/12/2023		16:51		a350e5c1-ba7e-4696-8537-d2c900b994f7		ProtocolError		Protocol error (Page.navigate): Cannot navigate to invalid URL
+12/12/2023		16:51		4d99c963-12c0-43c7-be2d-d144da596bc0		ProtocolError		Protocol error (Page.navigate): Cannot navigate to invalid URL
+12/12/2023		16:51		2b46c961-6627-4145-9d53-614af8bd6aac		ProtocolError		Protocol error (Page.navigate): Cannot navigate to invalid URL
+12/12/2023		16:52		ebc9e3a1-a3ec-472e-8505-682f8df6834b		ProtocolError		Protocol error (Page.navigate): Cannot navigate to invalid URL
+12/12/2023		16:52		44191d99-5fe9-44ca-b918-37008e71d323		ProtocolError		Protocol error (Page.navigate): Cannot navigate to invalid URL
+12/12/2023		16:52		ac9e3b6f-c4f2-49f3-8b63-72fe0492bb19		ProtocolError		Protocol error (Page.navigate): Cannot navigate to invalid URL
+12/12/2023		16:53		aa5644ec-cbe9-4011-96c8-04c656aaeb15		ProtocolError		Protocol error (Page.navigate): Cannot navigate to invalid URL
+12/12/2023		16:55		37404399-bcfc-43e6-a4a5-a2e470399c67		ProtocolError		Protocol error (Page.navigate): Cannot navigate to invalid URL
+12/12/2023		16:59		49deb83f-6a68-4f88-83fc-26f07792379a		ProtocolError		Protocol error (Page.navigate): Cannot navigate to invalid URL
+12/12/2023		16:59		0d9de368-7e3b-4b3d-8183-afc4c1a54ae9		ProtocolError		Protocol error (Page.navigate): Cannot navigate to invalid URL
+12/12/2023		16:59		70d69eeb-cd15-4cc5-a50a-ef67862bed48		ProtocolError		Protocol error (Page.navigate): Cannot navigate to invalid URL
+12/12/2023		16:59		3ff696df-3aea-45b6-b012-b1e9b1eb4323		ProtocolError		Protocol error (Page.navigate): Cannot navigate to invalid URL
+12/12/2023		17:00		169a92b2-b77c-494b-a728-c7499fcd87ae		ProtocolError		Protocol error (Page.navigate): Cannot navigate to invalid URL
+12/12/2023		17:02		6c1761d7-574b-4df4-b0b9-f62086d95357		ProtocolError		Protocol error (Page.navigate): Cannot navigate to invalid URL
+12/12/2023		17:14		29e22a78-f928-4b21-bd97-bf39990aabc7		ProtocolError		Protocol error (Page.navigate): Cannot navigate to invalid URL
+12/12/2023		17:14		512b4124-831b-4c86-83b6-d718aee58f29		ProtocolError		Protocol error (Page.navigate): Cannot navigate to invalid URL
+12/12/2023		17:15		71a20711-af0c-4224-952c-e1ee84e5f18a		ProtocolError		Protocol error (Page.navigate): Cannot navigate to invalid URL
+12/12/2023		17:15		39b37fca-99f2-46c7-8b3a-2aa627322920		ProtocolError		Protocol error (Page.navigate): Cannot navigate to invalid URL
+12/12/2023		17:15		0973055c-c675-453e-a812-4a8b9258b70c		ProtocolError		Protocol error (Page.navigate): Cannot navigate to invalid URL
+12/12/2023		17:17		4ae7267f-9c3c-4fab-810b-51517f69ce2b		ProtocolError		Protocol error (Page.navigate): Cannot navigate to invalid URL
+12/12/2023		17:17		07cf4563-4e61-4eb6-b2ac-79409ec581ca		ProtocolError		Protocol error (Page.navigate): Cannot navigate to invalid URL
+12/12/2023		17:18		0d58cb0c-8f8f-4689-9660-104b21cf29a9		ProtocolError		Protocol error (Page.navigate): Cannot navigate to invalid URL
+12/12/2023		17:18		46dad46a-dbfc-4ed7-94fe-4b220130bbe4		ProtocolError		Protocol error (Page.navigate): Cannot navigate to invalid URL
+12/12/2023		17:18		83a0129a-8e96-42bf-98e5-d9c28471c35f		ProtocolError		Protocol error (Page.navigate): Invalid parameters Failed to deserialize params.url - BINDINGS: mandatory field missing at position 50
+12/12/2023		17:18		8bab6f63-39af-4125-b7af-a1e4a7545814		ProtocolError		Protocol error (Page.navigate): Invalid parameters Failed to deserialize params.url - BINDINGS: mandatory field missing at position 50
+12/12/2023		17:20		febf8586-b8d3-465f-900f-96dd76b14026		ProtocolError		Protocol error (Page.navigate): Invalid parameters Failed to deserialize params.url - BINDINGS: mandatory field missing at position 50
+12/12/2023		17:21		1abebe04-01c7-4042-8651-9e6118673a6f		ProtocolError		Protocol error (Page.navigate): Cannot navigate to invalid URL
+12/12/2023		17:21		636da7ad-6a6a-4a2c-8565-ce539be3ffb9		ProtocolError		Protocol error (Page.navigate): Cannot navigate to invalid URL
+12/12/2023		17:21		d0cf5993-ef1f-4899-af1a-474887cbfdaf		ProtocolError		Protocol error (Page.navigate): Cannot navigate to invalid URL
+12/12/2023		17:21		817e33d1-5ea1-4a0c-8110-06b669004492		ProtocolError		Protocol error (Page.navigate): Cannot navigate to invalid URL
+12/12/2023		17:21		999e3d4c-a958-4097-826b-3fd441924603		ProtocolError		Protocol error (Page.navigate): Cannot navigate to invalid URL
+12/12/2023		17:21		e75dd1bc-964e-4e8a-aa8a-ff18d397b584		ProtocolError		Protocol error (Page.navigate): Cannot navigate to invalid URL
+12/12/2023		17:23		64f71cfa-ac76-4c0d-b0f2-f6d9dc1d7b40		ProtocolError		Protocol error (Page.navigate): Cannot navigate to invalid URL
+12/12/2023		17:23		6315eff1-1fce-4b2c-a227-347c492b88a9		ProtocolError		Protocol error (Page.navigate): Cannot navigate to invalid URL
+12/12/2023		17:23		75a0c8b2-8487-48a6-9905-b2d8afac3a4c		ProtocolError		Protocol error (Page.navigate): Cannot navigate to invalid URL
+12/12/2023		17:23		6390bd69-e445-42a0-8831-4d3cae77e319		ProtocolError		Protocol error (Page.navigate): Cannot navigate to invalid URL
+12/12/2023		17:24		092dbb3a-b7d7-4b7a-9717-4efafe8d8239		TimeoutError		Waiting for selector `._44qnta span` failed: Waiting failed: 5000ms exceeded
+12/12/2023		17:24		ba0a434e-db7c-4cfd-82e3-3680c03da4ca		TimeoutError		Waiting for selector `._44qnta span` failed: Waiting failed: 5000ms exceeded
+12/12/2023		17:57		ee087582-5c44-4b65-918d-c37ee36555a5		TimeoutError		Waiting for selector `._44qnta span` failed: Waiting failed: 5000ms exceeded
+12/12/2023		17:57		91c879ff-e53c-40d8-8c6d-2737330d1963		TimeoutError		Waiting for selector `._44qnta span` failed: Waiting failed: 5000ms exceeded
+12/12/2023		17:57		d0760d91-3c6e-4f5a-b907-caff33261965		ProtocolError		Protocol error (Page.navigate): Cannot navigate to invalid URL
+12/12/2023		17:57		9eff130f-7ad8-4999-a501-665401a9f738		ProtocolError		Protocol error (Page.navigate): Cannot navigate to invalid URL
+12/12/2023		17:59		1a42b08f-aabb-4b9f-9be5-5232363fac55		ProtocolError		Protocol error (Page.navigate): Cannot navigate to invalid URL
+12/12/2023		17:59		8da5aa46-e6d8-4964-8c90-4eddba8d68b4		ProtocolError		Protocol error (Page.navigate): Cannot navigate to invalid URL
+12/12/2023		17:59		9c4694d2-787c-4786-8dc7-3d1efc58bcea		TimeoutError		Waiting for selector `._44qnta span` failed: Waiting failed: 5000ms exceeded
+12/12/2023		17:59		9a58dcbc-47de-4e87-8ea5-af7ca2ab49ec		TimeoutError		Waiting for selector `._44qnta span` failed: Waiting failed: 5000ms exceeded
+12/12/2023		20:49		87dd35d4-e538-48b8-9ddf-6e6c95491ff2		ProtocolError		Protocol error (Page.navigate): Cannot navigate to invalid URL
+12/12/2023		20:49		e2d7156e-7e8b-436b-9d2b-0022ec641c07		ProtocolError		Protocol error (Page.navigate): Cannot navigate to invalid URL
+13/12/2023		14:10		10ffbb86-ba97-417b-ad38-3b7bc9861e9b		ProtocolError		Protocol error (Page.navigate): Cannot navigate to invalid URL
+13/12/2023		14:28		c64a2d32-b7d7-4d69-9127-3e57892fa5a3		ProtocolError		Protocol error (Page.navigate): Cannot navigate to invalid URL
+13/12/2023		14:29		4da8f6bb-a0fe-49e9-ae15-6d94f84f809c		ProtocolError		Protocol error (Page.navigate): Cannot navigate to invalid URL
+13/12/2023		14:29		0c295498-27e6-4cad-b2e0-4b89460e8ebc		ProtocolError		Protocol error (Page.navigate): Cannot navigate to invalid URL
+13/12/2023		14:38		1c104642-4245-4a1b-bdfe-0e7a61ed0d24		TypeError		The first argument must be of type string or an instance of Buffer, ArrayBuffer, or Array or an Array-like Object. Received an instance of Object
+13/12/2023		14:56		882d4e80-6ca7-41c0-8e46-e75b0b8194f0		ProtocolError		Protocol error (Page.navigate): Cannot navigate to invalid URL
+13/12/2023		14:56		3ca64ca1-aa27-4f57-aa52-f58ea10c9bb5		ProtocolError		Protocol error (Page.navigate): Cannot navigate to invalid URL
+13/12/2023		14:58		d867a50e-9d31-4bb9-ab4d-581d089c93ba		ProtocolError		Protocol error (Page.navigate): Cannot navigate to invalid URL
+13/12/2023		14:58		78a6d802-7cf9-42cb-848c-155ccbdc6336		ProtocolError		Protocol error (Page.navigate): Cannot navigate to invalid URL
+13/12/2023		15:19		88e3f665-6383-4813-bafa-7ef628224df4		ProtocolError		Protocol error (Page.navigate): Cannot navigate to invalid URL
+13/12/2023		15:22		b1c2f387-1e9d-4b5d-8f5c-c2ce1e7ea28b		ProtocolError		Protocol error (Page.navigate): Cannot navigate to invalid URL
