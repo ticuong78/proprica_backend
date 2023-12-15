@@ -779,3 +779,42 @@
 13/12/2023		14:58		78a6d802-7cf9-42cb-848c-155ccbdc6336		ProtocolError		Protocol error (Page.navigate): Cannot navigate to invalid URL
 13/12/2023		15:19		88e3f665-6383-4813-bafa-7ef628224df4		ProtocolError		Protocol error (Page.navigate): Cannot navigate to invalid URL
 13/12/2023		15:22		b1c2f387-1e9d-4b5d-8f5c-c2ce1e7ea28b		ProtocolError		Protocol error (Page.navigate): Cannot navigate to invalid URL
+13/12/2023		16:05		3bf3c307-babb-40c9-ac25-a917da506d62		TypeError		Cannot read properties of undefined (reading '0')
+13/12/2023		20:43		3a017c81-4fe6-49a4-8b94-54fe914c31a0		ProtocolError		Protocol error (Page.navigate): Cannot navigate to invalid URL
+13/12/2023		20:44		1fc5384a-0d0d-4898-b6fb-09abe489a307		TypeError		Cannot read properties of undefined (reading '0')
+13/12/2023		20:49		3bbbb8f2-8651-49ff-8957-b118b3e1d261		ProtocolError		Protocol error (Page.navigate): Cannot navigate to invalid URL
+13/12/2023		20:51		cf0fb0f4-8ad1-4d1a-93cc-fe981447fbc4		ProtocolError		Protocol error (Page.navigate): Cannot navigate to invalid URL
+13/12/2023		21:34		367d1307-2eed-441f-9d2f-2f4d189a0cef		TimeoutError		Waiting for selector `._44qnta span` failed: Waiting failed: 5000ms exceeded
+13/12/2023		21:36		0ecf8dc9-2ee0-43a9-98cf-2ed5b0a99ec5		ProtocolError		Protocol error (Page.navigate): Cannot navigate to invalid URL
+13/12/2023		21:40		1987167f-9f7c-4b78-b7e2-3d51786bbfaf		ProtocolError		Protocol error (Page.navigate): Cannot navigate to invalid URL
+13/12/2023		21:42		494c56af-a797-41c7-b481-216e0fdb08e4		TimeoutError		Waiting for selector `._44qnta span` failed: Waiting failed: 5000ms exceeded
+13/12/2023		21:44		bf6648dd-5b2e-4f76-a072-5190aa03a9ce		TimeoutError		Waiting for selector `._44qnta span` failed: Waiting failed: 5000ms exceeded
+13/12/2023		22:12		146e2ad5-05b1-4338-aabf-4e5edc134c25		TimeoutError		Waiting for selector `._44qnta span` failed: Waiting failed: 5000ms exceeded
+13/12/2023		22:12		74b93680-0ce1-43cf-b2d0-9e844326202f		TimeoutError		Waiting for selector `._44qnta span` failed: Waiting failed: 5000ms exceeded
+13/12/2023		22:13		fc801efa-cc7c-437c-bf38-2ead81b42892		TimeoutError		Waiting for selector `._44qnta span` failed: Waiting failed: 5000ms exceeded
+13/12/2023		22:13		73fc5a70-c673-441c-9cf3-bbc553963d30		ProtocolError		Protocol error (Page.navigate): Cannot navigate to invalid URL
+14/12/2023		15:00		ccd85057-26df-41dd-8b0a-231feafda36f		TimeoutError		Timed out after waiting 30000ms
+14/12/2023		17:25		9adc3a77-03ba-4e1c-9b0f-6e1b3bff97c2		TimeoutError		Timed out after waiting 30000ms
+14/12/2023		21:31		6b280e0e-0044-4957-b08c-963a1ac60c4e		ProtocolError		Protocol error (Page.navigate): Cannot navigate to invalid URL
+15/12/2023		08:56		043d23b2-fe53-4f65-8348-462ca7e9ee54		ProtocolError		Protocol error (Page.navigate): Cannot navigate to invalid URL
+15/12/2023		08:57		8d2e7572-d9e1-4d1f-9783-1bdc086efe51		TimeoutError		Waiting for selector `._44qnta span` failed: Waiting failed: 3000ms exceeded
+15/12/2023		08:58		f7b47f9d-849e-4ca5-8562-ef0d32b666f8		TimeoutError		Waiting for selector `._44qnta span` failed: Waiting failed: 3000ms exceeded
+15/12/2023		09:44		5aa5a2f4-582d-442d-85f0-73bb45315c57		TimeoutError		Waiting for selector `._44qnta span` failed: Waiting failed: 3000ms exceeded
+15/12/2023		15:29		fda532a1-b101-4113-bc89-97d73ab9e770		ProtocolError		Protocol error (Page.navigate): Cannot navigate to invalid URL
+15/12/2023		15:30		5420316a-0ca6-44c6-965f-686cff20cc44		ProtocolError		Protocol error (Page.navigate): Cannot navigate to invalid URL
+15/12/2023		15:32		6f41e43e-259e-4869-990b-0babd35dc4d1		ProtocolError		Protocol error (Page.navigate): Cannot navigate to invalid URL
+15/12/2023		15:38		2f7f5d83-a83e-4f5e-81f4-c529c7dcb4e6		ProtocolError		Protocol error (Page.navigate): Cannot navigate to invalid URL
+15/12/2023		16:00		3d8aa208-194e-4ad0-8263-24a455b1d096		TargetCloseError		Waiting for selector `.pDzPRp` failed: Protocol error (Runtime.callFunctionOn): Target closed
+15/12/2023		16:01		e4d608eb-1d75-4ae9-8804-7ed46d46d910		TargetCloseError		Waiting for selector `.pDzPRp` failed: Protocol error (Runtime.evaluate): Session closed. Most likely the page has been closed.
+15/12/2023		16:02		a8c47fcc-7732-48e6-ad13-3e94bd9b2d5d		TargetCloseError		Waiting for selector `.pDzPRp` failed: Protocol error (Runtime.callFunctionOn): Target closed
+15/12/2023		16:03		03c5ae71-9372-4b78-aa99-72673a4c1f8e		ProtocolError		Protocol error (Page.navigate): Cannot navigate to invalid URL
+15/12/2023		21:31		245250a2-09d0-4d52-8444-95280d20e672		TimeoutError		Waiting for selector `._44qnta span` failed: Waiting failed: 30000ms exceeded
+15/12/2023		21:32		dd9a81b3-e856-490c-9512-eb61d87243cc		TargetCloseError		Waiting for selector `._44qnta span` failed: Protocol error (Runtime.callFunctionOn): Target closed
+15/12/2023		21:34		85e57118-2fec-429b-a126-797af58db0a7		TimeoutError		Waiting for selector `._44qnta span` failed: Waiting failed: 30000ms exceeded
+15/12/2023		21:36		e6a68ff2-b216-4d0c-8b1a-75a83039170a		TargetCloseError		Protocol error (Input.dispatchKeyEvent): Session closed. Most likely the page has been closed.
+15/12/2023		21:37		b0d6de68-a8f7-43bc-a3c5-6313eada508a		Error		net::ERR_ABORTED at https://shopee.vn/Hi%CC%80nh-da%CC%81n-nh%C3%A2n-v%C3%A2%CC%A3t-game-Genshin-ch%C3%A2%CC%81t-li%C3%AA%CC%A3u-nh%C6%B0%CC%A3a-Acrylic-2cm*1cm(-kh%C3%B4ng-k%C3%A8m-keo-d%C3%A1n)-i.875549904.22860782295
+15/12/2023		21:38		438bf2f0-cf4a-459d-a814-3d50241ac714		TimeoutError		Waiting for selector `.pDzPRp` failed: Waiting failed: 30000ms exceeded
+15/12/2023		21:39		c8d58e23-5a6b-4ead-aaff-4138cea61538		TimeoutError		Waiting for selector `.pDzPRp` failed: Waiting failed: 30000ms exceeded
+15/12/2023		21:52		d170ae67-67f2-4136-89c8-243d8c8b794d		TimeoutError		Waiting for selector `._44qnta span` failed: Waiting failed: 30000ms exceeded
+15/12/2023		21:52		dc538e86-bbb1-4412-b057-8077ffdc1bfe		TimeoutError		Waiting for selector `._44qnta span` failed: Waiting failed: 30000ms exceeded
+15/12/2023		21:53		26f9ff41-99a4-43c3-a564-df5dadf51ec0		TimeoutError		Waiting for selector `._44qnta span` failed: Waiting failed: 30000ms exceeded
