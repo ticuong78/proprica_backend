@@ -818,3 +818,58 @@
 15/12/2023		21:52		d170ae67-67f2-4136-89c8-243d8c8b794d		TimeoutError		Waiting for selector `._44qnta span` failed: Waiting failed: 30000ms exceeded
 15/12/2023		21:52		dc538e86-bbb1-4412-b057-8077ffdc1bfe		TimeoutError		Waiting for selector `._44qnta span` failed: Waiting failed: 30000ms exceeded
 15/12/2023		21:53		26f9ff41-99a4-43c3-a564-df5dadf51ec0		TimeoutError		Waiting for selector `._44qnta span` failed: Waiting failed: 30000ms exceeded
+16/12/2023		09:38		e8df90f8-6db0-4296-b7e3-8113512e8f86		TimeoutError		Waiting for selector `._44qnta span` failed: Waiting failed: 30000ms exceeded
+16/12/2023		09:41		69205b56-8830-4fb8-a8f3-73632e7cbdd0		TimeoutError		Waiting for selector `._44qnta span` failed: Waiting failed: 30000ms exceeded
+16/12/2023		09:43		feb9e315-c9d5-42db-bd03-75c9efa103bf		TimeoutError		Waiting for selector `._44qnta span` failed: Waiting failed: 30000ms exceeded
+16/12/2023		09:44		f5172abf-0c21-4b68-81e5-fafcbd6538f4		TimeoutError		Waiting for selector `._44qnta span` failed: Waiting failed: 30000ms exceeded
+16/12/2023		09:54		1997af8e-e3e0-4c00-b099-0b9d3749d0a9		TimeoutError		Waiting for selector `.pDzPRp` failed: Waiting failed: 30000ms exceeded
+16/12/2023		09:54		c5fa1a72-6fb4-4e2b-975e-1a1303b412b7		TimeoutError		Timed out after waiting 30000ms
+16/12/2023		09:55		b39f926e-330d-46a7-ba9e-ac4917567037		Error		net::ERR_INTERNET_DISCONNECTED at https://shopee.vn/Tws-Tai-Nghe-Ch%E1%BB%A5p-Tai-bluetooth-5.2-%C3%82m-Thanh-hifi-Ki%E1%BB%83u-D%C3%A1ng-Th%E1%BB%83-Thao-i.451212855.23252605785?publish_id=&sp_atk=8b5e0399-f2c6-48d1-a83a-a27ab9138361&xptdk=8b5e0399-f2c6-48d1-a83a-a27ab9138361
+16/12/2023		10:03		7dbb466f-b51c-4c89-b8ae-fc09e93eddc6		Error		net::ERR_INTERNET_DISCONNECTED at https://shopee.vn/Tws-Tai-Nghe-Ch%E1%BB%A5p-Tai-bluetooth-5.2-%C3%82m-Thanh-hifi-Ki%E1%BB%83u-D%C3%A1ng-Th%E1%BB%83-Thao-i.451212855.23252605785?publish_id=&sp_atk=8b5e0399-f2c6-48d1-a83a-a27ab9138361&xptdk=8b5e0399-f2c6-48d1-a83a-a27ab9138361
+16/12/2023		10:06		2022f30f-6981-496b-b8dd-8e0edfdc12f3		TimeoutError		Waiting for selector `.pDzPRp` failed: Waiting failed: 30000ms exceeded
+16/12/2023		10:08		fcdfed69-c982-4a63-93da-5136c69f8fde		TimeoutError		Navigation timeout of 30000 ms exceeded
+16/12/2023		10:09		9a550c8b-dff1-48e0-aa31-6bdfcdf004d8		TimeoutError		Navigation timeout of 30000 ms exceeded
+16/12/2023		10:11		a38ccbe5-21fd-4e5b-b533-f2315b82eabb		TimeoutError		Navigation timeout of 30000 ms exceeded
+16/12/2023		10:12		7566cbbb-a566-437a-922b-414ad3156f09		TimeoutError		Navigation timeout of 30000 ms exceeded
+16/12/2023		10:14		27992f6b-6300-4247-b2a7-62ad0fc3b3ea		TimeoutError		Navigation timeout of 30000 ms exceeded
+16/12/2023		10:17		dc843e8e-6a8e-4abd-9bba-67bf23d1d928		TimeoutError		Waiting for selector `.pDzPRp` failed: Waiting failed: 30000ms exceeded
+16/12/2023		10:26		a62067c6-35aa-48ef-8b88-380e859be460		TimeoutError		Navigation timeout of 30000 ms exceeded
+16/12/2023		10:28		e68b7c3d-7d99-4968-994a-d3eaacaf377a		TimeoutError		Waiting for selector `.pDzPRp` failed: Waiting failed: 30000ms exceeded
+16/12/2023		10:29		34562c00-9672-4e48-b5c6-0baf039a0d85		TimeoutError		Navigation timeout of 30000 ms exceeded
+16/12/2023		10:29		4113da90-043c-4cf1-a1be-979b0edf8ca1		TimeoutError		Waiting for selector `.pDzPRp` failed: Waiting failed: 3000ms exceeded
+16/12/2023		10:35		c8ad336d-755a-42bf-b0cc-71ceff11f3a8		TimeoutError		Navigation timeout of 30000 ms exceeded
+16/12/2023		10:42		c4a8b788-86b9-4e08-aad6-688d41045ba2		TimeoutError		Navigation timeout of 30000 ms exceeded
+16/12/2023		10:42		0429432c-5953-4cae-a983-c6a71e67b42b		TimeoutError		Navigation timeout of 30000 ms exceeded
+16/12/2023		10:43		88e4e23d-fe0f-4840-966d-490745c59301		Error		Navigating frame was detached
+16/12/2023		10:45		8ec85c82-eea5-41d5-a372-53e3dd4b1007		TimeoutError		Navigation timeout of 30000 ms exceeded
+16/12/2023		10:45		a2505676-dbb6-4217-b142-31293c3f31da		TargetCloseError		Waiting for selector `.pDzPRp` failed: Protocol error (Runtime.evaluate): Session closed. Most likely the page has been closed.
+16/12/2023		10:47		b9389394-1234-4582-8aa4-57f6da331fd7		TimeoutError		Navigation timeout of 30000 ms exceeded
+16/12/2023		11:09		400c9d47-da0c-4387-a1ea-1735df8cb15e		TimeoutError		Waiting for selector `.pDzPRp` failed: Waiting failed: 3000ms exceeded
+16/12/2023		11:11		bdff0cf4-777a-4cfe-9008-77f0b4ef12be		TimeoutError		Waiting for selector `._44qnta span` failed: Waiting failed: 30000ms exceeded
+16/12/2023		11:12		a7ebd146-6e4f-4b25-a843-b92889b5cb5f		TimeoutError		Navigation timeout of 30000 ms exceeded
+16/12/2023		11:14		26fa3557-a189-4107-bb1f-3dbcb7d1221a		TimeoutError		Navigation timeout of 30000 ms exceeded
+16/12/2023		11:15		efcc3f0a-7627-4781-96e4-fed2a8159a9d		TimeoutError		Navigation timeout of 30000 ms exceeded
+16/12/2023		11:15		a2800c45-14d9-4489-89b0-b55fa3629a5d		TimeoutError		Navigation timeout of 30000 ms exceeded
+16/12/2023		12:03		f7ad8fcc-3b35-43ab-af71-6baec5bcc4b5		TimeoutError		Waiting for selector `.pDzPRp` failed: Waiting failed: 10000ms exceeded
+16/12/2023		12:03		090aebf2-4cb7-477d-aa72-f2156914e1a2		TimeoutError		Waiting for selector `._44qnta span` failed: Waiting failed: 30000ms exceeded
+16/12/2023		12:04		0979a265-9d26-47d8-bf98-f2ba02d1ab3b		TimeoutError		Waiting for selector `._44qnta span` failed: Waiting failed: 30000ms exceeded
+16/12/2023		12:05		1cad23e4-ae1a-4877-8995-8365be70ffd3		TimeoutError		Waiting for selector `._44qnta span` failed: Waiting failed: 30000ms exceeded
+16/12/2023		12:06		5614f8ee-ab29-4ca4-86be-dc006ef1ceda		TimeoutError		Waiting for selector `._44qnta span` failed: Waiting failed: 30000ms exceeded
+16/12/2023		12:07		94c727f3-0737-4fd6-a4ed-6cb2b28d49a5		TimeoutError		Waiting for selector `._44qnta span` failed: Waiting failed: 30000ms exceeded
+16/12/2023		12:12		e85c605c-0165-4e5c-bff3-24cd7293ba15		TimeoutError		Waiting for selector `._44qnta span` failed: Waiting failed: 30000ms exceeded
+16/12/2023		12:15		63a9cd26-c1e9-4982-b439-83550e00d139		TargetCloseError		Waiting for selector `.dWxniD` failed: Protocol error (Runtime.callFunctionOn): Target closed
+16/12/2023		14:24		bd5b8c4f-5027-4ff1-a37e-a82bb3159867		TimeoutError		Waiting for selector `.pDzPRp` failed: Waiting failed: 10000ms exceeded
+16/12/2023		14:34		5083fd9b-e767-4050-b28a-ef7f0d54627b		ProtocolError		Protocol error (Page.navigate): Cannot navigate to invalid URL
+16/12/2023		14:35		33179b47-31dd-4d2e-9eed-e14d3dfea9e1		ProtocolError		Protocol error (Page.navigate): Cannot navigate to invalid URL
+16/12/2023		14:40		d91f03ef-e15e-49e7-8974-d3bb7d2d9aee		TimeoutError		Waiting for selector `._44qnta span` failed: Waiting failed: 3000ms exceeded
+16/12/2023		14:44		eeab679e-2190-4cff-91cd-b42aa2174c3a		Error		Navigating frame was detached
+16/12/2023		14:45		3d36a2e4-bc22-4f72-8b94-4120ef9e5ce9		TimeoutError		Waiting for selector `._44qnta span` failed: Waiting failed: 3000ms exceeded
+16/12/2023		14:46		eb63114e-323f-4394-97e4-9c2ed87460e5		TimeoutError		Waiting for selector `.pDzPRp` failed: Waiting failed: 10000ms exceeded
+16/12/2023		14:48		9db72390-dbe4-4954-8e41-94ad2b9d7a77		TimeoutError		Waiting for selector `.pDzPRp` failed: Waiting failed: 10000ms exceeded
+16/12/2023		14:50		d5941ddd-b29a-46ea-9b59-1e8741da621d		TimeoutError		Waiting for selector `.pDzPRp` failed: Waiting failed: 10000ms exceeded
+16/12/2023		14:51		a8bf3074-1893-4db9-9c85-eddd0593465a		TimeoutError		Waiting for selector `._44qnta span` failed: Waiting failed: 5000ms exceeded
+16/12/2023		15:00		6c4e8e04-a9a4-4784-86a9-324f832eb80d		TimeoutError		Waiting for selector `.pDzPRp` failed: Waiting failed: 30000ms exceeded
+16/12/2023		15:06		b99ebd3b-92d7-456e-bc58-4a693cab3183		TimeoutError		Waiting for selector `.pDzPRp` failed: Waiting failed: 30000ms exceeded
+16/12/2023		15:07		914cc72b-8bca-48da-8df4-511eb457286a		TimeoutError		Waiting for selector `.pDzPRp` failed: Waiting failed: 30000ms exceeded
+16/12/2023		15:08		ee4d0f4c-914b-4894-b02a-11201bce5443		TimeoutError		Waiting for selector `.pDzPRp` failed: Waiting failed: 30000ms exceeded
+16/12/2023		15:10		78ed5c00-bb7e-4400-9e99-1f72f3c1a5ac		TimeoutError		Waiting for selector `.pDzPRp` failed: Waiting failed: 30000ms exceeded

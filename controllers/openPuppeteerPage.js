@@ -1,6 +1,5 @@
 const puppeteer = require('puppeteer-extra');
 const { executablePath } = require('puppeteer');
-const jwt = require("jsonwebtoken");
 require("dotenv").config();
 const StealthPlugin = require('puppeteer-extra-plugin-stealth');
 puppeteer.use(StealthPlugin());
@@ -45,9 +44,21 @@ const authenticatePuppeteerPage = async (req, res) => {
     if (selector.length != 0) {
       const selectorsUser = selector[0];
       const selectorspassword = selector[1];
-      await selectorsUser.type("0776199627", { delay: 100 });
-      await selectorspassword.type("151004Abyss", { delay: 100 });
+      await selectorsUser.type("0355639493", { delay: 100 });
+      await selectorspassword.type("Chaulen4", { delay: 100 });
       await selectorspassword.press("Enter");
+      await page.waitForNavigation({
+        waitUntil: "load"
+      })
+      const authenticateButton = await page.evaluate(() => {
+        const documentButton = document.querySelector(".dWxniD");
+        return documentButton ? documentButton : "";
+      })
+
+      if(authenticateButton !== "") {
+        await authenticateButton.click();
+        await page.click(".GhFPxQ", {timeout: 200});
+      }
     }
     if (req.path === "/small") {
       const data = await smallScrape(page);
@@ -61,6 +72,9 @@ const authenticatePuppeteerPage = async (req, res) => {
     const statusCode = await new ErrorCompany().returnError(error);
     return res.sendStatus(statusCode);
   } finally {
+
+    //dWxniD
+    //GhFPxQ 
     await req.browser.close();
   }
 }

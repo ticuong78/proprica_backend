@@ -23,7 +23,8 @@ class ErrorCompany {
     const errName = error.name; //errName thì chỉ có một,
     const errMsg = error.message; //erMsg thì phải includes
     if (errName === "TimeoutError") return new InternalServerError().getError(); //timeouterror: lỗi timeout puppeteer không tìm thấy class
-    if (errName === "ProtocolError" || errMsg.includes("ERR_ABORTED") || errMsg.includes("ERR_TOO_MANY_REDIRECTS") || errName === "TargetCloseError") return new UndefinedError().getError(); //protocol: lỗi link, err_aborted: request timeout
+    if (errName === "ProtocolError" || errMsg.includes("ERR_ABORTED") || errMsg.includes("ERR_TOO_MANY_REDIRECTS") || errName === "TargetCloseError" || errMsg.includes("Navigating frame was detached")) return new UndefinedError().getError(); //protocol: lỗi link, err_aborted: request timeout
+    if(errName === RangeError) return Promise.resolve();
   }
 }
 
