@@ -55,9 +55,9 @@ const authenticatePuppeteerPage = async (req, res) => {
         return documentButton ? documentButton : "";
       })
 
-      if(authenticateButton !== "") {
+      if (authenticateButton !== "") {
         await authenticateButton.click();
-        await page.click(".GhFPxQ", {timeout: 200});
+        await page.click(".GhFPxQ", { timeout: 200 });
       }
     }
     if (req.path === "/small") {
