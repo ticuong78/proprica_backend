@@ -873,3 +873,15 @@
 16/12/2023		15:07		914cc72b-8bca-48da-8df4-511eb457286a		TimeoutError		Waiting for selector `.pDzPRp` failed: Waiting failed: 30000ms exceeded
 16/12/2023		15:08		ee4d0f4c-914b-4894-b02a-11201bce5443		TimeoutError		Waiting for selector `.pDzPRp` failed: Waiting failed: 30000ms exceeded
 16/12/2023		15:10		78ed5c00-bb7e-4400-9e99-1f72f3c1a5ac		TimeoutError		Waiting for selector `.pDzPRp` failed: Waiting failed: 30000ms exceeded
+17/12/2023		16:37		a1dbedc2-8188-4743-9803-4bec487015ad		TimeoutError		Waiting for selector `._44qnta span` failed: Waiting failed: 30000ms exceeded
+17/12/2023		16:40		1333c98d-9a87-42c6-9595-6013e9a3ef8a		TimeoutError		Waiting for selector `._44qnta span` failed: Waiting failed: 30000ms exceeded
+17/12/2023		16:42		57af9487-bdbb-414b-92db-0d5a6c121328		TimeoutError		Waiting for selector `._44qnta span` failed: Waiting failed: 30000ms exceeded
+17/12/2023		16:43		af832743-6002-4ab0-a8af-c1c6f0274373		ReferenceError		page is not defined
+17/12/2023		16:45		affd90b2-61f4-42c5-933e-e875fb993944		TypeError		Cannot read properties of undefined (reading 'click')
+17/12/2023		16:46		40f4d26d-58ca-4c9a-a9e9-eca053bc95b4		TypeError		Cannot read properties of undefined (reading 'click')
+17/12/2023		16:49		5ec9776f-0960-4578-840d-843b7700d557		TimeoutError		Timed out after waiting 30000ms
+17/12/2023		17:01		c649115d-fa7d-45bb-a4e5-57daf7a90c15		ProtocolError		Protocol error (Page.navigate): Cannot navigate to invalid URL
+17/12/2023		17:01		d1b4db5a-7f35-4673-a9fb-f0c4c8504ac8		ProtocolError		Protocol error (Page.navigate): Cannot navigate to invalid URL
+17/12/2023		17:01		3a0f98a1-05a4-48c2-9882-ac1aca322c76		ProtocolError		Protocol error (Page.navigate): Cannot navigate to invalid URL
+17/12/2023		17:01		b18a2007-b315-4dc1-95dd-f1b15a929804		ProtocolError		Protocol error (Page.navigate): Cannot navigate to invalid URL
+17/12/2023		17:01		8eed0e9a-9bfa-45f8-b048-ab5f028280fe		ProtocolError		Protocol error (Page.navigate): Cannot navigate to invalid URL

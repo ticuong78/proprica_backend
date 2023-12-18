@@ -52,12 +52,12 @@ const authenticatePuppeteerPage = async (req, res) => {
       })
       const authenticateButton = await page.evaluate(() => {
         const documentButton = document.querySelector(".dWxniD");
-        return documentButton ? documentButton : "";
+        return documentButton ? documentButton : null;
       })
 
-      if (authenticateButton !== "") {
+      if(authenticateButton) {
         await authenticateButton.click();
-        await page.click(".GhFPxQ", { timeout: 200 });
+        await page.click(".GhFPxQ", {timeout: 200});
       }
     }
     if (req.path === "/small") {
