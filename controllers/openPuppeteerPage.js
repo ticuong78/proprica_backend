@@ -16,7 +16,7 @@ const CONFIG = {
 const openPuppeteerBrowser = async (req, res, next) => {
   if (req.method === "OPTIONS") return res.sendStatus(200);
   const browser = await puppeteer.launch({
-    headless: 'new',
+    headless: false,
     executablePath: executablePath()
   })
 
@@ -38,9 +38,9 @@ const authenticatePuppeteerPage = async (req, res) => {
       waitUntil: 'load'
     });
 
-    await page.waitForSelector(".pDzPRp");
+    await page.waitForSelector(".lPNKBu");
 
-    const selector = await page.$$(".pDzPRp");
+    const selector = await page.$$(".lPNKBu");
     if (selector.length != 0) {
       const selectorsUser = selector[0];
       const selectorspassword = selector[1];
@@ -50,15 +50,16 @@ const authenticatePuppeteerPage = async (req, res) => {
       await page.waitForNavigation({
         waitUntil: "load"
       })
-      const authenticateButton = await page.evaluate(() => {
-        const documentButton = document.querySelector(".dWxniD");
-        return documentButton ? documentButton : null;
-      })
 
-      if(authenticateButton) {
-        await authenticateButton.click();
-        await page.click(".GhFPxQ", {timeout: 200});
+      try {
+        await page.waitForSelector(".dWxniD", { timeout: 3500 });
+        await page.click(".dWxniD", { timeout: 200 });
+        await page.waitForSelector(".GhFPxQ", { timeout: 2000 });
+        await page.click(".GhFPxQ", { timeout: 200 });
+      } catch (err) {
+        Promise.resolve();
       }
+
     }
     if (req.path === "/small") {
       const data = await smallScrape(page);

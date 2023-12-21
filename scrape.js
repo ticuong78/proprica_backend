@@ -9,7 +9,7 @@ const requestWebsite = async (browser) => {
 
   const page = await browser.newPage();
 
-  await page.goto("https://shopee.vn/Hi%CC%80nh-da%CC%81n-nh%C3%A2n-v%C3%A2%CC%A3t-game-Genshin-ch%C3%A2%CC%81t-li%C3%AA%CC%A3u-nh%C6%B0%CC%A3a-Acrylic-2cm*1cm(-kh%C3%B4ng-k%C3%A8m-keo-d%C3%A1n)-i.875549904.22860782295");
+  await page.goto("https://shopee.vn/Badge-Huy-hi%E1%BB%87u-Genshin-Impact-i.288259802.22560372497?publish_id=&sp_atk=63dc5216-616b-409f-b949-cb34932c55ec&xptdk=63dc5216-616b-409f-b949-cb34932c55ec");
 
   await page.waitForSelector(".pDzPRp");
   await page.waitForSelector(".wyhvVD");
